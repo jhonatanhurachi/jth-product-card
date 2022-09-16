@@ -1,10 +1,10 @@
 # JTH-Product-Card
 
-Este es un paquete de pruebas de despliegue NPM
+Package for npm deploying testing
 
 ### Jhonatan Tupayachi Hurtado
 
-## Ejemplo
+## Example
 
 ```
 import { ProductCard } from "jth-product-card";
